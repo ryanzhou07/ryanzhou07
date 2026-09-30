@@ -12,7 +12,7 @@ Currently, I'm focused on engineering resilient FinTech solutions, event-driven 
 
 ---
 
-### 💼 Experience Highlights
+### Experience Highlights
 
 - **Barclays** — Developed large-scale network observability, telemetry dashboards, and internal engineering tools to monitor mission-critical corporate and payment systems.
 - **Universal Selfcare** — Built high-throughput Go backend services, data pipelines, and automated cloud workflows utilizing Google Cloud Run and GCP services.
@@ -20,7 +20,7 @@ Currently, I'm focused on engineering resilient FinTech solutions, event-driven 
 
 ---
 
-### 🚀 Highlight Projects
+### Highlight Projects
 
 - **CustomApply** *(In Development)* — Context-aware browser extension and web dashboard pairing a FastAPI backend and Supabase PostgreSQL with dynamic LLM field mapping to automate job application workflows. *(Repo link coming soon)*
 - **Personal Finance & Expense Consolidation Hub** *(In Progress)* — Platform designed to aggregate disparate account data, handle group bill-splitting logic, and recommend optimal credit card point utilization strategies.
@@ -28,7 +28,7 @@ Currently, I'm focused on engineering resilient FinTech solutions, event-driven 
 
 ---
 
-### 📬 Connect With Me
+### Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/ryanzhou5](https://www.linkedin.com/in/ryanzhou5/)
 - **Email:** [ryanzhou07@gmail.com](mailto:ryanzhou07@gmail.com)
