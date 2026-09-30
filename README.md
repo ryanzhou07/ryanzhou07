@@ -4,11 +4,12 @@ I'm a Computer Science & Data Science student at Rutgers University with a backg
 
 Currently, I'm focused on engineering resilient FinTech solutions, event-driven backends, and applied AI tools that streamline complex real-world workflows.
 
-### 🔭 What I'm Working On & Interested In
+But outside the tech stuff, I am super into the Premier League (Haaland Man City Supporter), Market Trends, Gaming (Go G2), and staying active 
+
+### What I'm Working On & Interested In
 
 - **FinTech & Financial Systems:** Consolidating fragmented financial data, automated personal finance pipelines, bill-splitting mechanics, and reward optimization algorithms (e.g., credit card point strategies).
-- **Backend & Distributed Systems:** Building scalable microservices, low-latency REST APIs, and automated event triggers (currently engineering an automated email pipeline).
-- **Observability & Cloud Scale:** Telemetry, real-time metrics aggregation, and containerized deployments across modern cloud environments.
+- **Backend & Distributed Systems:** Building scalable microservices, low-latency REST APIs, and automated event triggers
 
 ---
 
