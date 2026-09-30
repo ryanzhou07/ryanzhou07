@@ -4,7 +4,7 @@ I'm a Computer Science & Data Science student at Rutgers University with a backg
 
 Currently, I'm focused on engineering resilient FinTech solutions, event-driven backends, and applied AI tools that streamline complex real-world workflows.
 
-But outside the tech stuff, I am super into the Premier League (Haaland Man City Supporter), Market Trends, Gaming (Go G2), and staying active 
+But outside the tech stuff, I am super into the Premier League (Haaland Man City Supporter), Market Trends, Gaming (Go G2), Staying Active in the Gym, and my favorite thing Beli
 
 ### What I'm Working On & Interested In
 
